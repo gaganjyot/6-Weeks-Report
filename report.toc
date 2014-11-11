@@ -1,0 +1,28 @@
+\contentsline {chapter}{\numberline {1}Introduction To Organisation}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Testing and Consutancy Cell}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}Introduction To Project}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction to CAD}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Introduction to LibreCAD}{6}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Downloading Source Code}{7}{subsubsection.2.2.1.1}
+\contentsline {chapter}{\numberline {3}Project Work}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}LibreCAD v3 Kernel Development}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Installation Guide}{10}{subsection.3.1.1}
+\contentsline {chapter}{\numberline {4}Technologies Used}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction to Qt}{14}{section.4.1}
+\contentsline {section}{\numberline {4.2}Working with Qt Creator}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Creating Projects}{16}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Using Qt Quick Toolbars}{17}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Deploying Applications to Mobile Devices}{18}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Getting Help}{18}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Features and Benefits}{18}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Introduction to \LaTeX }{19}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Typesetting}{20}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Installing \LaTeX {} on System}{20}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Graphical Editors for \LaTeX {}}{21}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Pdfscreen \LaTeX {}}{22}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Web based graphic generation using \LaTeX {}}{23}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Introduction to Cairo Graphics Library}{24}{section.4.4}
+\contentsline {chapter}{\numberline {5}Project Legacy}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}Technical and Managerial Lesson Learnt}{25}{section.5.1}
+\contentsfinish 
